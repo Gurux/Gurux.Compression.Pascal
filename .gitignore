@@ -1,0 +1,13 @@
+.build/
+*.dcu
+*.ppu
+*.o
+*.exe
+*.identcache
+*.local
+*.res
+*.rsj
+Tests/DotNetReference/bin/
+Tests/DotNetReference/obj/
+/.svn
+/Tests
